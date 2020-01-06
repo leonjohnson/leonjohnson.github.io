@@ -186,19 +186,19 @@ figure{
     color: #83839b;
     display: block;
 }
-.london-week-price{
+.title-price{
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-top: 7px;
     padding-bottom: 16px;
 }
-.london-week-price h4{
+.title-price h4{
     font-size: 24px;
     font-weight: bold;
     color: #414156;
 }
-.london-week-price .price{
+.title-price .price{
     font-size: 18px;
     font-weight: normal;
     color: #414156;
@@ -210,7 +210,7 @@ figure{
     height: 29px;
     background-color: #ffe8df;
 }
-.london-week-price .price img{
+.title-price .price img{
     margin-right: 5px;
 }
 .london-week-box p{
